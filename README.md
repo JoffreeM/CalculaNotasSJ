@@ -16,6 +16,7 @@
 - **Recordatorios Inteligentes:** Recibe notificaciones para exámenes y fechas importantes.
 - **Publicaciones y Comentarios:** Publica, comenta y consulta información relevante para tu educación.
 - **Integración con Firebase:** Utiliza autenticación segura y sincronización de datos en tiempo real.
+- **Consumo de API con Retrofit:** Integración con la **API** usando **Retrofit** para la obtención de datos
 
 ## 🛠️ Tecnologías y Herramientas
 
